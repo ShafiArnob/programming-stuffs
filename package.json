@@ -1,0 +1,23 @@
+{
+  "name": "programming-stuffs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon javascript-oop/basic-oop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShafiArnob/programming-stuffs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShafiArnob/programming-stuffs/issues"
+  },
+  "homepage": "https://github.com/ShafiArnob/programming-stuffs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
